@@ -1,1 +1,1 @@
-# Helped-translate-and-simplify-project-information.
+# Helped-translate-and-simplify-project-information.h
